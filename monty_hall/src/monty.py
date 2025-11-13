@@ -33,7 +33,7 @@ def simulate_games(num_games: int = 10000) -> tuple[float,float]:
 
 # Run the simulation and print results
 if __name__ == "__main__":
-    num_games = 10000
+    num_games = 1000
     num_wins_without_switching, num_wins_with_switching = simulate_games(num_games)
-    print(f"Winning percentage without switching doors: {(num_wins_without_switching/num_games):.2%}")
-    print(f"Winning percentage with switching doors: {(num_wins_with_switching/num_games):.2%}")
+    print(f"Winning percentage without switching doors: {(num_wins_without_switching/num_games)}")
+    print(f"Winning percentage with switching doors: {(num_wins_with_switching/num_games)}")
