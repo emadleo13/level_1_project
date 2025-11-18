@@ -13,6 +13,7 @@ The projects are designed in three levels. Each level contains 2_3 projects, and
 - Streamlit Dashboard
 - Happy Numbers
 - Monty Hall Simulation Problem
+- Contacts Book Application
 
 ### Getting Started
 
