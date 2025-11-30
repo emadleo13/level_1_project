@@ -14,6 +14,7 @@ The projects are designed in three levels. Each level contains 2_3 projects, and
 - Happy Numbers
 - Monty Hall Simulation Problem
 - Contacts Book Application
+- Tic Tac Toe Game
 
 ### Getting Started
 
