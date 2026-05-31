@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+share_qr.png
+.venv/
+venv/
